@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "pc-control-client (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "pc-control-client (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
