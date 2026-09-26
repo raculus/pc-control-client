@@ -50,7 +50,7 @@
                            HorizontalAlignment="Right" 
                            Foreground="{ThemeResource SystemChromeWhiteColor}"/>
                 <TextBlock x:Name="TxtUptime" 
-                           Text="사용 시간: -시간 -분" 
+                           Text="-시 -분" 
                            FontSize="28" 
                            FontWeight="Bold" 
                            HorizontalAlignment="Right" 
@@ -63,7 +63,7 @@
                            Margin="0,4,0,0"
                            Foreground="{ThemeResource SystemChromeWhiteColor}"/>
                 <TextBlock x:Name="TxtRemainingTime" 
-                           Text="남은 시간: -시간 -분" 
+                           Text="-시 -분" 
                            FontSize="28" 
                            FontWeight="Bold" 
                            HorizontalAlignment="Right" 

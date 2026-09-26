@@ -12,7 +12,7 @@
   <Identity
     Name="YeonStar.PC"
     Publisher="CN=9DD55770-15A4-4A4D-94CC-392DF373243E"
-    Version="1.0.2.0" />
+    Version="1.0.3.0" />
 
   <mp:PhoneIdentity PhoneProductId="f7b4833d-3fc0-4160-a9bb-dc8a00c930ae" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
